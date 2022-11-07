@@ -9,10 +9,17 @@ public class Hellogit {
 				git config --global user.email "이메일" 
 	 */
 	
+	//project -> team-> commit -> git staging
 
+	//++아이콘 클릭
+	//commit
+	
+	// 아이콘 옆 > 는 추적상태의미
+	
 	public static void main(String[] args) {
 
-		System.out.println("git 연동해보기");
+		System.out.println("git 연동해보기"); 
+		System.out.println("두번째 작업 끝");
 	}
 
 }
